@@ -1,0 +1,18 @@
+PRÁCE SE SYMBOLY
+	STRING/CHAR PRÁCE
+	nahrazení znaku za jiný znak -- replace_spaces.m
+	práce s velkými/malými čísly -- lowercase_and_uppercase_count.m
+	práce s diakritikou -- no_diacritics.m	
+	práce s character array -- TICTACTOE.m
+	opakování znaků -- no_repeating_symbols.m
+	sudá/lichá slova -- even_words.m
+	odstranění znaku -- delete_symbol.m
+	string2double manuálně -- string2double_ascii.m
+
+	PRÁCE S ČÍSLY
+	převody z binární do desítkové --binary_to_decimal.m
+	odstranění duplikátů -- same_numbers.m
+	
+
+VYKRESLOVÁNÍ
+kolečko, čtverec, trojúhelník a šestiúhelník -- circle_square_triangle_hexagon.m
